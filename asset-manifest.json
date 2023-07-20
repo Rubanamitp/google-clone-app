@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-clone-app/static/css/main.fad49d43.css",
+    "main.js": "/google-clone-app/static/js/main.57d12063.js",
+    "index.html": "/google-clone-app/index.html",
+    "main.fad49d43.css.map": "/google-clone-app/static/css/main.fad49d43.css.map",
+    "main.57d12063.js.map": "/google-clone-app/static/js/main.57d12063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad49d43.css",
+    "static/js/main.57d12063.js"
+  ]
+}
